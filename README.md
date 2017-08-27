@@ -1,12 +1,11 @@
 # Head Tracking with Kinect
 
-This application tracks a person’s head by means of the Microsoft Kinect and sends its coordinates over the (local) network via UDP.
+This application tracks a person’s head by means of the Microsoft Kinect sensor.  
+Head coordinates are sent over the local network via UDP.
 
 ## Requirements
 
-You will need a Windows 10 machine with a ‘Kinect 2 for Windows’ device connected and functioning.  
-Be aware: because Microsoft has screwed up with the hardware and software requirements, this is not easy to achieve.
-
+You will need a Windows 10 PC with a 'Kinect for Windows 2’ sensor connected and functioning.
 
 ## Usage
 
@@ -15,7 +14,6 @@ Just run the Visual Studio solution.
 ## Meta
 
 Take look at [this](https://channel9.msdn.com/coding4fun/kinect/Programming-Kinect-for-Windows-v2-Jumpstart-on-Demand) video course series if you want to learn about Kinect development 
-
 
 ## License
 
