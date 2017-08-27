@@ -1,4 +1,4 @@
-# Head Tracking with Kinect
+# Head Tracking with Kinect for Windows 2
 
 This application tracks a person’s head by means of the Microsoft Kinect sensor.  
 Head coordinates are sent over the local network via UDP.
